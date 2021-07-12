@@ -28,6 +28,11 @@ export default {
 <style>
 body {
   padding: 30px;
+  background-image: url(./assets/money.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 .slide-enter-active {

@@ -80,3 +80,9 @@ export default {
   }
 };
 </script>
+
+<style scoped>
+a:hover {
+  color: #6ca638 !important;
+}
+</style>
