@@ -10,7 +10,7 @@ http://vuejs-stocks.s3-website.us-east-2.amazonaws.com
 HTML5, CSS3, JavaScript, Vue.js
 
 ## Usage
-Select the "Stocks" option in the navbar, then choose a stock to buy.  Decide how many shares you would like to buy and click the "Buy" button; the amount of shares you bought will be reflected.  To see how many stocks you have, select the "Portfolio" option in the navbar.  Here you can choose which stocks to sell and how many.  
+On the homepage, select the "Stocks" option in the navbar. Once you are on the Stocks page then choose a stock to buy.  Decide how many shares you would like to buy and click the "Buy" button; the amount of shares you bought will be reflected.  To see how many stocks you have, select the "Portfolio" option in the navbar.  Once you are on the Portfolio page you can choose which stock shares you would like to sell.
 
 ## Contributors
 Casey Maltese (self)
@@ -20,3 +20,13 @@ None
 
 ## Contact
 If you have any questions, you can contact me via email: <caseymaltese@gmail.com>
+
+## Images
+### Homepage 
+<img src="./src/assets/homepage.png">
+
+### Stocks Page
+<img src="./src/assets/stocks.png">
+
+### Portfolio Page
+<img src="./src/assets/portfolio.png">
